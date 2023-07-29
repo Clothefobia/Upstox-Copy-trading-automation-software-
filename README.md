@@ -40,9 +40,6 @@ https://codecanyon.net/item/angel-copy-trading-software/39861011
 <li>
                          <strong>Software have 6 month Support But We depend on Third party Broker API, as possible we will support for best work software</strong>
                     </li>
-<li>
-                         
-                    </li>
 </ul>
 <div class="page-header">
 <h1>Project Requirement </h1>
